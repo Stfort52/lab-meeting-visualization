@@ -47,4 +47,6 @@ I used [TexLive](https://www.tug.org/texlive/quickinstall.html) 2025.01.06.
 
 ## Usage
 
+Please note that the `%manim` magic is set to only visualize the last scene of the animation(option `-s`). To visualize the entire animation as a video, you can remove the `-s` option from the magic.
+
 Enjoy!
