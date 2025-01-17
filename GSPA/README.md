@@ -1,6 +1,6 @@
 # GSPA
 
-These are the code I've used to generate the figures for my lab meeting presentation.
+These are the code I've used to generate the figures for my lab meeting presentation covering the following paper:
 
 ```bibtex
 @article{GSPA,
