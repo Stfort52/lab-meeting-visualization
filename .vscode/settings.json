@@ -1,0 +1,20 @@
+{
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportPrivateImportUsage": "none",
+        "reportMissingTypeStubs": "information"
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always"
+        },
+    },
+    "isort.args": [
+        "--profile",
+        "black"
+    ],
+    "notebook.formatOnCellExecution": true,
+}
